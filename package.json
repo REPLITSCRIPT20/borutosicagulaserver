@@ -1,0 +1,15 @@
+{
+  "name": "whatsapp-auto-pairing",
+  "version": "1.0.0",
+  "description": "A WhatsApp automation tool using Pairing Code",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "whatsapp-web.js": "^1.18.5"
+  },
+  "author": "Boruto",
+  "license": "MIT"
+}
